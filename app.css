@@ -1,0 +1,28 @@
+#product-form{
+    background-color:violet;
+}
+
+
+.card-header {
+    background-color: rgb(0, 183, 255);
+
+}
+
+body{
+    background-image: url(img/48688.jpg);
+    background-size: cover;
+}
+.success, .error {
+    
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
